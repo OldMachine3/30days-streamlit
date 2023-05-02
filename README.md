@@ -1,8 +1,6 @@
 ## 30days-streamlit
-about: The #30DaysOfStreamlit is a coding challenge designed to help you get started in building Streamlit apps.
-
+about: The 30DaysOfStreamlit is a coding challenge designed to help you get started in building Streamlit apps.
 Particularly, you'll be able to:
-
 Set up a coding environment for building Streamlit apps
 Build your first Streamlit app
 Learn about all the awesome input/output widgets to use for your Streamlit app
@@ -28,3 +26,6 @@ link(https://www.youtube.com/c/KenJee1)
 - day 16: change theme
 - day 17: Create Secret Message
 - day 18: Create Uploader File in Streamlit
+- day 19: Create layout app Streamlit
+- day 20: Discuss in twiter
+- day 21: make progress bar
