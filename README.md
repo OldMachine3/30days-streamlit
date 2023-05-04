@@ -27,4 +27,5 @@
 - day 19: Create layout app Streamlit
 - day 20: Discuss in twiter
 - day 21: make progress bar
-- day 22: Creat form app in Streamlit
+- day 22: Create form app in Streamlit
+- day 23: Create query app in Streamlit
