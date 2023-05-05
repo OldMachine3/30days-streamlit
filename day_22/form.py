@@ -16,6 +16,7 @@ with st.form("my_form"):
     milk_val = st.select_slider("Milk intensity", ["None", "Low", "Medium", "High"])
     own_cup_val = st.checkbox("Bring own cup")
     
+    # Every form must have a submit button.
     submitted = st.form_submit_button("Submit") 
     
 if submitted:
