@@ -30,3 +30,5 @@
 - day 22: Create form app in Streamlit
 - day 23: Create query app in Streamlit
 - day 24: Using cache in streamlit
+- day 25: Crate session
+- day 26: using API
